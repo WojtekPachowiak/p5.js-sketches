@@ -1,8 +1,14 @@
-# p5.js-sketches
+# Simulations and cool patterns using p5.js
 The link to all the sketches:  
 https://editor.p5js.org/wojtekpaszo/sketches
 
 What you see depends on where on the canvas is your mouse!
+
+_Torch_, _Magic ball_ and _Boxy fire_ are variations on [The Coding Train's video about particle systems].
+
+I also recommend to take a look on different types of tilings visualizations! (ex. _Square-Triangle-Hexagon Tiling_)
+
+[The Coding Train's video about particle systems]: https://www.youtube.com/watch?v=syR0klfncCk
 
 --------
 
